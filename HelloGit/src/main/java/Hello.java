@@ -9,5 +9,6 @@ public class Hello {
 
     public void hello(String arg){
         System.out.println("hello "+arg);
+        System.out.println("在线更新test");
     }
 }
